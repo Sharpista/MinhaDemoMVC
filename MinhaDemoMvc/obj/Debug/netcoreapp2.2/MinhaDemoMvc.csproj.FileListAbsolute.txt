@@ -1,0 +1,4 @@
+C:\Users\alexa\Desktop\proj\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\proj\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\proj\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.AssemblyInfo.cs
+C:\Users\alexa\Desktop\proj\MinhaDemoMvc\MinhaDemoMvc\obj\Debug\netcoreapp2.2\MinhaDemoMvc.csproj.CoreCompileInputs.cache
